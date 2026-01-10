@@ -1,12 +1,11 @@
 # 📷 Computer Vision with CNN & Object Detection (TensorFlow & PyTorch)
 
 ## 📌 Overview
+Welcome to **Complete Computer Vision**, a hands-on course and code repository focused on learning fundamental and advanced techniques in computer vision using **OpenCV**, **TensorFlow**, and **PyTorch**.
 
-This repository is created and maintained by **Uditya Narayan Tiwari**, a **B.Tech CSE (AI & ML)** student at **VIT Bhopal University**, focusing on building a **strong, practical foundation in Computer Vision**.
+This repository is part of my learning and teaching journey in AI & Machine Learning as a **B.Tech CSE (AI & ML)**
 
-This course reflects my learning journey in **Artificial Intelligence, Machine Learning, and Computer Vision**, combining **theory + implementation + real-world projects** using **TensorFlow** and **PyTorch**.
-
-The goal of this repository is to provide **clear, structured, and hands-on computer vision learning resources** for students, researchers, and developers.
+In this comprehensive course, you will master the fundamentals and advanced concepts of computer vision, focusing on Convolutional Neural Networks (CNN) and object detection models using TensorFlow and PyTorch. This course is designed to equip you with the skills required to build robust computer vision applications from scratch.
 
 ---
 
