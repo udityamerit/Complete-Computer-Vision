@@ -1,5 +1,6 @@
 # 📷 Computer Vision with CNN & Object Detection (TensorFlow & PyTorch)
 
+![alt text](image.png)
 ## 📌 Overview
 Welcome to **Complete Computer Vision**, a hands-on course and code repository focused on learning fundamental and advanced techniques in computer vision using **OpenCV**, **TensorFlow**, and **PyTorch**.
 
