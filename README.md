@@ -209,8 +209,6 @@ VIT Bhopal University
 🔗 **Knowledge Base:** [https://udityaknowledgebase.netlify.app/](https://udityaknowledgebase.netlify.app/)
 
 🔗 **LinkedIn:** [https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)
-
-
 ---
 
 ## 📬 Contact
